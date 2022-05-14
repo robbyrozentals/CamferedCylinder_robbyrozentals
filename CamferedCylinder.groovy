@@ -1,2 +1,2 @@
 
-return new ChamferedCylinder(50,60.0,10).toCSG()
+return new ChamferedCylinder(50,60.0,29).toCSG()
